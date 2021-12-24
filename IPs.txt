@@ -1,3 +1,9 @@
 137.184.112.26  --Mirai Botnet
 54.255.104.188  --Mirai Botnet
 209.141.54.110	--Mirai Botnet
+109.107.188.167 --RedLine Stealer
+193.150.103.37  --RedLine Stealer
+45.129.99.59    --RedLine Stealer
+104.21.51.253   --RedLine Stealer
+85.209.89.134   --RedLine Stealer
+185.215.113.42  --RedLine Stealer
