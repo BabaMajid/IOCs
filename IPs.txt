@@ -8,3 +8,4 @@
 85.209.89.134   --RedLine Stealer
 185.215.113.42  --RedLine Stealer
 142.93.155.143   --Linux Botnet
+159.65.221.234    --Gafgyt Linux
