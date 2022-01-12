@@ -9,3 +9,4 @@
 185.215.113.42  --RedLine Stealer
 142.93.155.143   --Linux Botnet
 159.65.221.234    --Gafgyt Linux
+185.85.13.100     --SilentBuilder
